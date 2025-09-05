@@ -1,0 +1,64 @@
+{
+  "villa": [
+    {
+      "id": 1,
+      "name": "https://www.espacos-portugal.com/l/-8048/-210962454_ID549d7701-0000-0500-0000-0000127fd64b.jpg",
+      "price": 34000,
+      "description": "This minimalist white villa exudes modern elegance, featuring clean lines, large glass windows, and a serene poolside lounge area. Surrounded by lush landscaping and natural textures, it offers a peaceful blend of luxury and relaxation."
+    },
+    {
+      "id": 2,
+      "name": "https://www.espacos-portugal.com/l/-8047/-211344319_ID641c7f01-0000-0500-0000-0000135f35ff.jpg",
+      "price": 214000,
+      "description": "This image showcases a sleek, symmetrical modern duplex villa with expansive glass facades and clean white geometric lines. Surrounded by minimalist landscaping, each unit features private outdoor lounging areas and direct garden access."
+    },
+    {
+      "id": 3,
+      "name": "https://lb-eu.green-acres.com/1147853a/Au9lzh5zcazci30k/miniPhotos/Au9lzh5zcazci30k_1.jpg",
+      "price": 432000,
+      "description": "This elegant modern villa features a bold cubic design with floor-to-ceiling glass walls and a spacious upper-level terrace. A sleek pool and sun loungers complement the minimalist outdoor living space, offering relaxation and style."
+    },
+    {
+      "id": 4,
+      "name": "https://phuketbuyhouse.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA4MjEzLCJwdXIiOiJibG9iX2lkIn19--79981d7589944d54588d984cdb41fcf654da2cd6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJjb21wb3NpdGUiOlsiL2FwcC9hcHAvYXNzZXRzL2ltYWdlcy93YXRlcm1hcmsvcGh1a2V0YnV5LnBuZyIseyJtb2RlIjoiYXRvcCIsImdyYXZpdHkiOiJjZW50cmUifV0sInJlc2l6ZV90b19saW1pdCI6WzI1NjAsMjU2MF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--7cc37041846bde8b75d13702830b5ec1dcfbda2a/155375.jpg",
+      "price": 543800,
+      "description": "This luxurious hillside villa features a striking modern design with full-height glass walls and warm wood accents. Elevated above lush greenery, it offers seamless indoor-outdoor living with elegant, open interiors and panoramic views."
+    },
+    {
+      "id": 5,
+      "name": "https://i.pinimg.com/236x/53/33/23/5333237f910da5a29215ba2ad6c15ec1.jpg",
+      "price": 3487000,
+      "description": "This stunning multi-level villa showcases contemporary elegance with expansive terraces, a private pool, and panoramic hillside views. Clean architectural lines and open-air lounge spaces create the perfect blend of luxury and relaxation."
+    },
+    {
+      "id": 6,
+      "name": "https://lh3.googleusercontent.com/5o_96Z0rNhhnw_Yc2dpEB8hENHbo5oAy9ME6uv7fYSlov_BAByAxYGnLeQagszujehUDq7bPM5YywuqC76PGoq6gxAu18OYd8cNxeQE",
+      "price": 6734000,
+      "description": "This sleek modern villa features expansive outdoor spaces with an infinity-edge pool, sunken lounge, and stylish poolside seating. Floor-to-ceiling windows and minimalist architecture enhance the luxurious open-concept design."
+    },
+    {
+      "id": 7,
+      "name": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_2z7-OW_SAYSzS9SGAResoqPjXU1S7_HuA&s",
+      "price": 342000,
+      "description": "This stylish contemporary villa blends clean white architecture with warm wood accents and expansive glass panels. A private pool, shaded dining area, and sun loungers offer the perfect setup for modern outdoor living."
+    },
+    {
+      "id": 8,
+      "name": "https://www.ibiza-one.com/images/thumbs/1929/thumb-721623fe5a8e338a221eb64d56401cb79ea766c3-920-495/great-luxury-sea-view-plot-in-roca-llisa-for-sale-ibiza---great-luxury-sea-view-plot-in-roca-llisa-for-rent-ibiza-ibiza.jpg?ts=1689685209",
+      "price": 34000,
+      "description": "This luxurious hillside villa showcases a modern, tiered design with expansive terraces and a stunning infinity pool. Surrounded by lush greenery, it offers panoramic views and serene outdoor lounging areas."
+    },
+    {
+      "id": 9,
+      "name": "https://tekce.net/files/emlaklar/dis/350x275/alc-1058-3-bedroom-villas-with-pool-for-sale-in-las-colinas-sh.jpeg",
+      "price": 364000,
+      "description": "This elegant villa features a soft-toned facade, natural stone walls, and large glass doors that open to a cozy poolside lounge. Surrounded by nature, it blends modern minimalism with Mediterranean charm."
+    },
+    {
+      "id": 10,
+      "name": "https://www.fmestates.com/wp-content/uploads/2018/10/3165279-818x540.jpg ",
+      "price": 375000,
+      "description": "This modern villa showcases clean geometric lines and expansive glass walls that open up to a serene garden and pool. The open-plan layout and minimalist exterior create a tranquil, contemporary retreat."
+    }
+  ]
+}
