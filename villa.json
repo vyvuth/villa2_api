@@ -59,6 +59,72 @@
       "name": "https://www.fmestates.com/wp-content/uploads/2018/10/3165279-818x540.jpg ",
       "price": 375000,
       "description": "This modern villa showcases clean geometric lines and expansive glass walls that open up to a serene garden and pool. The open-plan layout and minimalist exterior create a tranquil, contemporary retreat."
+    },
+    {
+      "id": 11,
+      "name": "https://photos.villasofdistinction.com/photos/1739284623-haven-house-pick-up-10.jpg",
+      "price": 132008,
+      "description": ""
+    },
+    {
+      "id": 12,
+      "name": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXd_CuUIWNSEWHUNItdetjagn7Ie_mVpuw8hj8U-oYYG73pzJ8xYTC_nN3GBStOsMlw2wB22Xkn50HOzRy5zie-VtHG6BwI2dNAOFPlqXbLxts868wom-PYbqHKl6MpICv0D-b6fKHBWzGNuBYPNRg?key=vnN9Kug1SuyVyMIxLmwrpgBt",
+      "price": 672008,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 13,
+      "name": "https://www.exceptionalvillas.com/public/upload/listing_photos_resize/w1900xh1900-Villa-Infinity-1.jpg",
+      "price": 912008,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 14,
+      "name": "https://s3.ap-south-1.amazonaws.com/local.losttraveller/images/680ca28670dc0-26-04-2025-09-08-22-66aa213df59e744be90334e3.webp",
+      "price": 324008,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 15,
+      "name": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2RKcnivbQZrR5dSNLTkDvog-ptjNqwwqQVQ&s",
+      "price": 12008,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 16,
+      "name": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2RKcnivbQZrR5dSNLTkDvog-ptjNqwwqQVQ&s",
+      "price": 78000,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 17,
+      "name": "https://www.gurugramproperties.com/public/uploads/newsphotos/advantages-of-living-in-a-villa.jpg",
+      "price": 3456008,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 18,
+      "name": "https://www.javea.com/wp-content/uploads/2017/07/fabulosa-y-moderna-casa-de-quality-rent-a-villa.jpg",
+      "price": 560000,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 19,
+      "name": "https://static.realting.com/uploads/images/3f1/445e22c2280ba1273ef81a36f446a.webp",
+      "price":243000,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 20,
+      "name": "https://i.pinimg.com/736x/8d/6d/2a/8d6d2a9fc0e2db112ae7e78562074ba5.jpg",
+      "price": 275000000,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 21,
+      "name": "https://vsquare.org/wp-content/uploads/2025/07/casavalentino1-1536x864-1.jpg",
+      "price": 129000000,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
     }
   ]
 }
