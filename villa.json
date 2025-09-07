@@ -125,6 +125,61 @@
       "name": "https://vsquare.org/wp-content/uploads/2025/07/casavalentino1-1536x864-1.jpg",
       "price": 129000000,
       "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 22,
+      "name": "https://control.solvilla.es/wp-content/uploads/2022/07/spca-visual-marbella-dji-0019-edit-scaled.jpg",
+      "price": 900000,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 23,
+      "name": "https://www.confident-group.com/wp-content/uploads/2025/01/villa-features-1024x690.jpg",
+      "price": 3900000,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 24,
+      "name": "https://static.baranselgrup.com/nwm-316367-w640-villa-vacanza.png",
+      "price": 1200000,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 25,
+      "name": "",
+      "price": 129000000,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 26,
+      "name": "https://i.ytimg.com/vi/z881jehUveQ/maxresdefault.jpg",
+      "price": 4300000,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 27,
+      "name": "https://www.touchofspice.co.nz/private-villas-and-residences/the-elms-at-lake-hayes-villa-two/theelmsv2_imageworks-84-copy-.webp",
+      "price": 12900000,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 28,
+      "name": "https://robbreport.com/wp-content/uploads/2021/04/21.jpg?w=1000",
+      "price": 72000000,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 29,
+      "name": "https://modernvillasco.com/wp-content/uploads/2024/06/Villa-garden-design-11-1.jpg",
+      "price": 78900000,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
+    },
+    {
+      "id": 30,
+      "name": "https://modernvillasco.com/wp-content/uploads/2024/06/Villa-garden-design-18-1.jpg",
+      "price": 56000000,
+      "description": "A luxurious beachfront villa featuring modern architecture, spacious balconies, and a stunning infinity pool surrounded by palm trees."
     }
+
   ]
 }
